@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I'm Chandan, a Full Stack Developer in progress.<br>I work on web development projects, explore AI concepts, and enjoy understanding how systems work behind the scenes.<br>My goal is to gain strong industry-level skills by building quality projects and writing clean, efficient code.
+Hi, I'm Chandan — a Full Stack Developer in progress.
+
+I build web applications and AI-powered systems, with a focus on automation workflows using tools like n8n.
+I enjoy solving real-world problems by combining frontend development with intelligent automation.
+
+My goal is to develop strong industry-level skills by building impactful projects and writing clean, efficient code.
+
 
 
 # 💻 Tech Stack:
