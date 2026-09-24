@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Chandan — a Full Stack Developer in progress.
+ Hi, I'm Chandan — a Full Stack Developer 
 
 I build web applications and AI-powered solutions, with a strong interest in automation and workflow development using tools like n8n. I enjoy solving real-world problems by combining modern web technologies with intelligent automation.
 
